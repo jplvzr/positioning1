@@ -1,0 +1,17 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.caja {
+	width: 200px;
+	height: 200px;
+}
+.first {
+	background-color: #ee3e64;
+}
+.second {
+	background-color: #44accf;
+}
+.third {
+	background-color: #b7d84b;
+}
