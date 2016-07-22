@@ -6,6 +6,10 @@
 	width: 200px;
 	height: 200px;
 	position: relative;
+	top: 100px;
+	bottom: ;
+	right: ;
+	left: 250px;
 }
 .first {
 	background-color: #ee3e64;
